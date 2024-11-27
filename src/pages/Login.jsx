@@ -91,20 +91,13 @@ export default function Login() {
             required
           />
           <input
-            type={showPassword ? "text" : "password"}
+            type="password"
             placeholder="Password"
             name="password"
             onChange={handleChange}
             required
           />
-          {showPassword ? (
-                  <FaEyeSlash
-                    onClick={() => setShowPassword(!showPassword)}
-                    style={{ cursor: "pointer" }}
-                  />
-                ) : (
-                  <FaEye onClick={() => setShowPassword(!showPassword)} style={{ cursor: "pointer" }} />
-                )}
+          
           <button type="submit" disabled={loading}>
             {loading ? "Logging In..." : "Log In"}
           </button>

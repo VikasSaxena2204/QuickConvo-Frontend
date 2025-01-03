@@ -43,13 +43,13 @@ Both should be installed and make sure MongoDB is running.
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page Screenshot]()
+![Login Page Screenshot](https://github.com/VikasSaxena2204/QuickConvo-Frontend/blob/main/Images/QuickConvo-Login.png)
 
 ### Register Page
-![Register Page Screenshot]()
+![Register Page Screenshot](https://github.com/VikasSaxena2204/QuickConvo-Frontend/blob/main/Images/QuickConvo-Login.png)
 
-### Home Page
-![Home Page Screenshot]()
+### Chat Page
+![Chat Page Screenshot](https://github.com/VikasSaxena2204/QuickConvo-Frontend/blob/main/Images/QuickConvo-Login.png)
 
 
 ---

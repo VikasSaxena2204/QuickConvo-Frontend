@@ -49,7 +49,7 @@ Both should be installed and make sure MongoDB is running.
 ![Register Page Screenshot](https://github.com/VikasSaxena2204/QuickConvo-Frontend/blob/main/Images/QuickConvo-Register.png)
 
 ### Chat Page
-![Chat Page Screenshot](https://github.com/VikasSaxena2204/QuickConvo-Frontend/blob/main/Images/QuickConvo-chat.png)
+![Chat Page Screenshot](https://github.com/VikasSaxena2204/QuickConvo-Frontend/blob/main/Images/QuickConvo-Chat.png)
 
 
 ---

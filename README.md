@@ -27,7 +27,7 @@ Quick Convo is a full-stack application using MERN technologies, designed to fac
 - **MongoDB**: NoSQL database for data storage
 - **Mongoose**: ODM for MongoDB
 - **Socket.IO**: For real-time communication
-- **bcrypt**: For hashing passwords
+- **script**: For hashing passwords
 - **cors**: For enabling Cross-Origin Resource Sharing
 - **dotenv**: For environment variable management
 
@@ -38,4 +38,4 @@ Quick Convo is a full-stack application using MERN technologies, designed to fac
 - [Nodejs](https://nodejs.org/en/download)
 - [Mongodb](https://www.mongodb.com/docs/manual/administration/install-community/)
 
-Both should be installed and make sure mongodb is running.
+Both should be installed and make sure Mongodb is running.

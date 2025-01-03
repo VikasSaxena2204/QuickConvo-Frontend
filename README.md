@@ -38,4 +38,40 @@ Quick Convo is a full-stack application using MERN technologies, designed to fac
 - [Nodejs](https://nodejs.org/en/download)
 - [Mongodb](https://www.mongodb.com/docs/manual/administration/install-community/)
 
-Both should be installed and make sure Mongodb is running.
+Both should be installed and make sure MongoDB is running.
+
+## 📸 Screenshots
+
+### Login Page
+![Login Page Screenshot]()
+
+### Register Page
+![Register Page Screenshot]()
+
+### Home Page
+![Home Page Screenshot]()
+
+
+---
+
+## 🧑‍💻 Author
+
+- **Vikas Saxena**
+  - GitHub: [VikasSaxena2204](https://github.com/VikasSaxena2204)
+  - LinkedIn: [Vikas Saxena](https://linkedin.com/in/2204-vikas-saxena)
+  - Portfolio: [my-portfolio-vikas.vercel.app](https://my-portfolio-vikas.vercel.app)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+---
+
+## 🌟 Support
+
+If you find this project helpful, please consider giving it a ⭐ on [GitHub](https://github.com/VikasSaxena2204/QuickConvo-Frontend)!
+
+---
+
